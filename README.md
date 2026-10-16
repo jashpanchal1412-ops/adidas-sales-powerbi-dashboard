@@ -13,6 +13,7 @@ Interactive slicers for region, retailer, product, and sales method.
 Custom DAX measures for profit margin and year-over-year growth.
 
 Key Insights: 
+
 [West Region] generated the highest sales, contributing almost 30% of total revenue.
 [Men's Street Footwear Product] was the top-performing category by profit.
 [West Gear Retailer] led with 25.21% of total units sold.
