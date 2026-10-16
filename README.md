@@ -1,4 +1,4 @@
-# adidas-sales-powerbi-dashboard
+# Adidas-Sales-Power BI-Dashboard
 Adidas Sales Analysis Dashboard | Power BI
 
 An interactive Power BI dashboard that analyzes Adidas sales performance across regions, retailers, products, and sales methods. It helps stakeholders track revenue, profit, and units sold, and identify which markets and products drive the most growth.
